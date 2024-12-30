@@ -1,0 +1,10 @@
+About this event
+🌟 "Tech Winter Break Workshop" ~ by GDG TSEC! 🌟
+📅 Date: 28th December 2024
+🕖 Time: 7:00 PM - 9:00 PM
+📍 Mode: Online
+🌐 Domain: Web Development
+💻 Tech Stack: Angular, Firebase, Gemini 2.0 API Integration
+
+
+https://github.com/anish3333/angular-todo
